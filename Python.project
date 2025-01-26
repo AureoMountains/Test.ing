@@ -1,0 +1,11 @@
+Item = input(type('What would you like to order?:') )
+Price = float(input('What is the price?:'))
+quantity = int(input('How many would you like to order next?:') )
+total = Price * quantity
+
+print(total)
+
+for x in range(1):
+    while
+        print('hi')
+            break
